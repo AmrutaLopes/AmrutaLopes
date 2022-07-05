@@ -3,7 +3,7 @@
 - Solid understanding of Python,R,SQL,ML,Statistics and Tableau.
 
 - 👀 I’m passionate about Statistics, Predictive modelling and Python.
-- 🌱 I’m currently gearing up for Interview preparation, exploring and learning DSA, ML techniques, 
+- 🌱 I’m currently gearing up for Interview preparation, exploring and learning DSA, ML techniques
 - 📫 How to reach me :amrutalopes@gmail.com
 
 <!---
