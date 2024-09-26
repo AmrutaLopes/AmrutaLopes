@@ -1,4 +1,5 @@
-- 👋 Hi, I’m AmrutaLopes, proud to have mastered the Data Science techniques in my one year journey of PGP Data Science certification from Purdue University & Data Science for Engineers course from IIT-Madras(NPTEL). 
+- 👋 Hi, I’m AmrutaLopes, proud to have mastered the Data Science techniques in my one year journey of PGP Data Science certification from Purdue University & Data Science for Engineers course from IIT-Madras(NPTEL).
+- Possess the latest expereicne in Data Analytics from JP Morgan & Chase co. for internship period of 4 months, wherein I have implemented skills in SQL, Alteryx , Tableau, Stakeholder requirement gathering & stakeholder management, presentation & time management.
 - The exciting journey began with Code in Place(2021) from Stanford university(Python programming as a part of CS106A of Stanford online) with accomplishment of the project on Real time stock market data analysis.  
 - Solid understanding of Python,R,SQL,ML,Statistics and Tableau.
 - My passion has further deepened by interest in Cloud technology leading me to secure Microsoft Certified - Azure Data Fundamentals certification.
